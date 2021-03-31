@@ -32,7 +32,7 @@ I am a Full Stack web developer, I have a passion for learning and sharing my kn
 
 
 <a href="https://github.com/NiAlvarez/Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NiAlvarez&repo=Portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NiAlvarez&repo=Portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>    
 
 ---
