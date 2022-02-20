@@ -4,7 +4,7 @@
 
 ### Hey there 👋
 
-I am a Full Stack web developer, I have a passion for learning and sharing my knowledge with others a public as possible. You can see a full list of what I am up to on my repositories. If you found value in something I have created, please feel free to send me a message, give me a shout out [@HiddenCatz](https://twitter.com/HiddenCatz), or you can follow me [@nicolas-alvarez-dev](https://www.linkedin.com/in/nicolas-alvarez-dev/) I would love to see you there.
+I am a Full Stack web developer, I have a passion for learning and sharing my knowledge with others a public as possible. You can see a full list of what I am up to on my repositories. If you found value in something I have created, please feel free to send me a message or you can follow me [@nicolas-alvarez-dev](https://www.linkedin.com/in/nicolas-alvarez-dev/) I would love to see you there.
 
 ---
 
