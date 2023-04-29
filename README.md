@@ -19,21 +19,12 @@ I am a Full Stack web developer, I have a passion for learning and sharing my kn
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/NiAlvarez/NiAlvarez">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiAlvarez&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/Nicol4sDev/Nicol4sDev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicol4sDev&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/NiAlvarez/NiAlvarez">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NiAlvarez&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+<a href="https://github.com/Nicol4sDev/Nicol4sDev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nicol4sDev&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Nico's GitHub Stats" />
 </a>
-
-<a href="https://github.com/NiAlvarez/rest-server-notas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NiAlvarez&repo=rest-server-notas&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/NiAlvarez/Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NiAlvarez&repo=Portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
-</a>    
 
 ---
 
